@@ -1,13 +1,13 @@
 # INTRODUCTION TO DATA SCIENCE PROJECT - Group 07
 
 - **Lecturer**: Nguyễn Ngọc Thảo.
-- **Teaching Assistant**: Lê Nhựt Nam, Kiều Vũ Minh Đức.
+- **Teaching Assistants**: Lê Nhựt Nam, Kiều Vũ Minh Đức.
 
 ---
 
 1. **Team Members**:
 
-| **No.** | **Student ID** | **Fullname**          |
+| **No** | **Student ID** | **Full Name**          |
 | ------- | -------------- | ----------------------|
 | 1       | 20127476			 | Đỗ Đức Duy            |
 | 2       | 20127449       | Trần Quốc Bảo         |
