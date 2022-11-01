@@ -17,4 +17,4 @@
 2. **Project Details**:
 
 - **Topic: Data collection and population analysis of Southeast Asia and East Asia from 1955-2022**.
-- Resource: [Website](https://danso.org/the-gioi/chau-a/)
+- Resource: [Danso.org](https://danso.org/the-gioi/chau-a/)
