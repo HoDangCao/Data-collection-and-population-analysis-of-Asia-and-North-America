@@ -26,9 +26,11 @@
 - Find top immigrant/migrant countries.
 - Population growth rate of contries in last 10 years.
 - the most/least populous country in area in each years.
+- Calculate average population of countries in a period.
 
 4. **To Solve Problems**
-- Predict population in area each next 5 years. 
-- Predict urbanization rate of contries in area.
-- Predict migration trends from which area to which area
-- Population structure of contries in area.
+- Predict population of area.
+- Predict population in each country each next 5 years. 
+- Predict urbanization rate of countries in area.
+- Predict migration trends from which countries to which countries
+- Population structure of countries in area.
